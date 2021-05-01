@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcEWaRRiOr01
 - 👀 I’m interested in Front-End web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+- 🌱 I’m currently learning HTML, CSS, JavaScript, JQuery, Bootstrap, PHP
 - 📫 How to reach me - number (+99363066641), Telegram (@IcEWaRRiOr_2002)
 
 <!---
